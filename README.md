@@ -68,25 +68,27 @@ Connect with me!
 
 ### AI Engineer - California State University, Chico
 *Aug 2025 – Feb 2026 · Chico, CA*
+
+> *Python, LLM APIs, RAG, Snowflake, Vector DB, AWS, Prompt Engineering, Docker*
  
 - Architected an end-to-end RAG platform combining LLM APIs, vector database retrieval, and Snowflake-backed SQL transformations - enabling context-aware enterprise question answering over structured datasets at scale
 - Designed and ran structured PoC experiments benchmarking zero-shot, few-shot, and retrieval-augmented prompting strategies; delivered findings as executive-level presentations that influenced adoption decisions
 - Reduced production query latency by 35% through targeted SQL query optimization, schema redesign, and strategic indexing across high-volume analytical workloads
 - Built real-time monitoring dashboards and KPI frameworks to track AI output quality, retrieval accuracy, pipeline throughput, and business metrics across the full system lifecycle
 - Collaborated cross-functionally with faculty and technical panels to translate complex business data requirements into scalable, AI-powered solutions with clear, outcome-focused narratives
-`Python` `LLM APIs` `RAG` `Snowflake` `Vector DB` `AWS` `Prompt Engineering` `Docker`
  
 ---
  
 ### AI Engineer Intern - NCompas Technology
 *Jun 2025 – Aug 2025 · CA, USA*
+
+> * LangChain, CrewAI, AutoGen, Azure, Python, SQL, CI/CD, Docker*
  
 - Designed and deployed modular multi-agent AI systems using LangChain, CrewAI, and AutoGen to automate complex, multi-step SaaS operational workflows in Azure cloud environments
 - Built ML-driven anomaly detection and behavioral drift monitoring systems that proactively surfaced model reliability risks before they impacted production pipelines
 - Designed SQL-backed KPI dashboards tracking performance trends, error rates, and agent behavior patterns - giving engineering and product teams clear, real-time operational visibility
 - Delivered CI/CD-ready containerized AI services via Azure pipelines, reducing deployment friction and accelerating iteration cycles across the engineering team
 - Partnered with product and operations teams to translate ambiguous business requirements into measurable AI-backed solutions with defined success metrics
-`LangChain` `CrewAI` `AutoGen` `Azure` `Python` `SQL` `CI/CD` `Docker`
  
 ---
  
