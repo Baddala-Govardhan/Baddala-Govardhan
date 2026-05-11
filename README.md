@@ -128,7 +128,7 @@ Connect with me!
  
 ## Featured Projects
  
-### [1Click — Sycamore & RAG-Based E-Learning Platform](https://github.com/Baddala-Govardhan/1Click-Sycamore-and-RAG-Pipeline)
+### 1Click — Sycamore & RAG-Based E-Learning Platform
 > *Node.js · React · Python · AWS · Terraform · RAG Pipelines · Docker*
  
 - Built a RAG-powered chatbot that dynamically retrieves relevant content from course materials and generates precise, grounded answers — significantly reducing hallucinations compared to vanilla LLM responses
@@ -138,7 +138,7 @@ Connect with me!
 - Deployed scalable cloud-native infrastructure on AWS using Docker and Terraform with full CI/CD integration, enabling repeatable and production-ready releases
 ---
  
-### [AERO — Automated Executed and Response Orchestrated](https://github.com/govardhanreddyb/aero)
+### AERO — Automated Executed and Response Orchestrated
 > *C++ · Python · Node.js · OpenCV · Docker · AWS*
  
 - Engineered a natural language command interface that parses voice inputs and maps them to system-level OS operations across Windows and Linux, enabling hands-free workflow automation
@@ -148,7 +148,7 @@ Connect with me!
 - Containerized all components using Docker for consistent, reproducible cross-environment deployments with full execution traceability via structured audit logs
 ---
  
-### [Autonomous Systems Evaluation Framework](https://github.com/Baddala-Govardhan)
+### Autonomous Systems Evaluation Framework
 > *Python · SQL · REST APIs · AWS · Docker*
  
 - Developed Python-based algorithms to compute safety-critical metrics including collision probability, lane deviation, trajectory smoothness, and acceleration variance from large-scale simulation logs
