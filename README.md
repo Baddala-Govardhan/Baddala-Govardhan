@@ -66,100 +66,100 @@ Connect with me!
 
 ## 💼 Experience
 
-### 🎓 AI Engineer - California State University, Chico
+### AI Engineer - California State University, Chico
 *Aug 2025 – Feb 2026 · Chico, CA*
  
-- 🏗️ Architected an end-to-end RAG platform combining LLM APIs, vector database retrieval, and Snowflake-backed SQL transformations - enabling context-aware enterprise question answering over structured datasets at scale
-- 🔬 Designed and ran structured PoC experiments benchmarking zero-shot, few-shot, and retrieval-augmented prompting strategies; delivered findings as executive-level presentations that influenced adoption decisions
-- ⚡ Reduced production query latency by 35% through targeted SQL query optimization, schema redesign, and strategic indexing across high-volume analytical workloads
-- 📊 Built real-time monitoring dashboards and KPI frameworks to track AI output quality, retrieval accuracy, pipeline throughput, and business metrics across the full system lifecycle
-- 🤝 Collaborated cross-functionally with faculty and technical panels to translate complex business data requirements into scalable, AI-powered solutions with clear, outcome-focused narratives
+- Architected an end-to-end RAG platform combining LLM APIs, vector database retrieval, and Snowflake-backed SQL transformations - enabling context-aware enterprise question answering over structured datasets at scale
+- Designed and ran structured PoC experiments benchmarking zero-shot, few-shot, and retrieval-augmented prompting strategies; delivered findings as executive-level presentations that influenced adoption decisions
+- Reduced production query latency by 35% through targeted SQL query optimization, schema redesign, and strategic indexing across high-volume analytical workloads
+- Built real-time monitoring dashboards and KPI frameworks to track AI output quality, retrieval accuracy, pipeline throughput, and business metrics across the full system lifecycle
+- Collaborated cross-functionally with faculty and technical panels to translate complex business data requirements into scalable, AI-powered solutions with clear, outcome-focused narratives
 `Python` `LLM APIs` `RAG` `Snowflake` `Vector DB` `AWS` `Prompt Engineering` `Docker`
  
 ---
  
-### 🏢 AI Engineer Intern - NCompas Technology
+### AI Engineer Intern - NCompas Technology
 *Jun 2025 – Aug 2025 · CA, USA*
  
-- 🤖 Designed and deployed modular multi-agent AI systems using LangChain, CrewAI, and AutoGen to automate complex, multi-step SaaS operational workflows in Azure cloud environments
-- 🔍 Built ML-driven anomaly detection and behavioral drift monitoring systems that proactively surfaced model reliability risks before they impacted production pipelines
-- 📈 Designed SQL-backed KPI dashboards tracking performance trends, error rates, and agent behavior patterns - giving engineering and product teams clear, real-time operational visibility
-- 🚀 Delivered CI/CD-ready containerized AI services via Azure pipelines, reducing deployment friction and accelerating iteration cycles across the engineering team
-- 🎯 Partnered with product and operations teams to translate ambiguous business requirements into measurable AI-backed solutions with defined success metrics
+- Designed and deployed modular multi-agent AI systems using LangChain, CrewAI, and AutoGen to automate complex, multi-step SaaS operational workflows in Azure cloud environments
+- Built ML-driven anomaly detection and behavioral drift monitoring systems that proactively surfaced model reliability risks before they impacted production pipelines
+- Designed SQL-backed KPI dashboards tracking performance trends, error rates, and agent behavior patterns - giving engineering and product teams clear, real-time operational visibility
+- Delivered CI/CD-ready containerized AI services via Azure pipelines, reducing deployment friction and accelerating iteration cycles across the engineering team
+- Partnered with product and operations teams to translate ambiguous business requirements into measurable AI-backed solutions with defined success metrics
 `LangChain` `CrewAI` `AutoGen` `Azure` `Python` `SQL` `CI/CD` `Docker`
  
 ---
  
-### 🏫 Software Developer Intern - Christ University
+### Software Developer Intern - Christ University
 *May 2023 – May 2024 · Bangalore, India*
  
-- 🌐 Built and maintained data-driven backend services and relational database integrations for a centralized platform serving 500+ active daily users, ensuring uptime and data integrity
-- ⚙️ Improved backend performance through SQL query optimization and schema-level redesign, reducing server response latency and increasing throughput for high-traffic user-facing endpoints
-- 🔒 Designed secure REST APIs with input validation and OOP-based architecture, establishing scalable patterns that supported consistent platform growth over the engagement
-- 🤝 Translated stakeholder requirements into maintainable, well-documented backend solutions; contributed stable production releases via Git-based code reviews with measurable quality outcomes
-- 📝 Produced technical documentation and runbooks for deployment procedures and troubleshooting workflows, improving team onboarding speed and reducing resolution times
+- Built and maintained data-driven backend services and relational database integrations for a centralized platform serving 500+ active daily users, ensuring uptime and data integrity
+- Improved backend performance through SQL query optimization and schema-level redesign, reducing server response latency and increasing throughput for high-traffic user-facing endpoints
+- Designed secure REST APIs with input validation and OOP-based architecture, establishing scalable patterns that supported consistent platform growth over the engagement
+- Translated stakeholder requirements into maintainable, well-documented backend solutions; contributed stable production releases via Git-based code reviews with measurable quality outcomes
+- Produced technical documentation and runbooks for deployment procedures and troubleshooting workflows, improving team onboarding speed and reducing resolution times
 `Python` `Django` `SQL` `REST APIs` `AWS` `Git` `PostgreSQL`
  
 ---
  
-### 🤖 Machine Learning Intern - Verzeo
+### Machine Learning Intern - Verzeo
 *Apr 2022 – May 2023 · Bangalore, India*
  
-- 🧠 Implemented CNN deep learning models using TensorFlow and Keras, achieving 92% validation accuracy on image classification tasks through systematic hyperparameter optimization and structured experimentation
-- 📦 Collected, cleaned, and preprocessed 10,000+ image datasets using Python, NumPy, and OpenCV — improving training pipeline efficiency by 30% and ensuring high-quality model inputs
-- 📐 Designed reproducible benchmarking pipelines measuring precision, recall, F1-score, and robustness across varied datasets, providing consistent baselines for model comparison
-- 🔎 Conducted systematic failure mode analysis to identify recurring error patterns and edge cases, driving targeted improvements that increased recognition performance by 15%
-- 🔁 Standardized data validation and preprocessing workflows to reduce inconsistencies and improve downstream model reliability across multiple training runs
+- Implemented CNN deep learning models using TensorFlow and Keras, achieving 92% validation accuracy on image classification tasks through systematic hyperparameter optimization and structured experimentation
+- Collected, cleaned, and preprocessed 10,000+ image datasets using Python, NumPy, and OpenCV — improving training pipeline efficiency by 30% and ensuring high-quality model inputs
+- Designed reproducible benchmarking pipelines measuring precision, recall, F1-score, and robustness across varied datasets, providing consistent baselines for model comparison
+- Conducted systematic failure mode analysis to identify recurring error patterns and edge cases, driving targeted improvements that increased recognition performance by 15%
+- Standardized data validation and preprocessing workflows to reduce inconsistencies and improve downstream model reliability across multiple training runs
 `Python` `TensorFlow` `Keras` `NumPy` `Pandas` `OpenCV` `Model Evaluation`
  
 ---
  
-### 🧪 Artificial Intelligence Intern - 1Stop.ai
+### Artificial Intelligence Intern - 1Stop.ai
 *Feb 2022 – Apr 2022 · Bangalore, India*
  
-- 📰 Built large-scale NLP classification pipelines to process and categorize 20,000+ unstructured news articles using Python and SQL, achieving 94% classification accuracy across target categories
-- ⚡ Engineered automated data preprocessing and feature extraction workflows that reduced end-to-end model training pipeline runtime by 40%, significantly accelerating iteration cycles
-- 🛡️ Designed rule-based evaluation frameworks to analyze classification variance, detect model drift, and flag inconsistencies in model outputs before deployment
-- 🔗 Integrated trained ML models into REST API backend services, enabling scalable, production-ready deployment and seamless consumption by downstream application teams
-- 📊 Documented findings and evaluation results in structured reports, presenting insights to cross-functional stakeholders in clear, non-technical language
+- Built large-scale NLP classification pipelines to process and categorize 20,000+ unstructured news articles using Python and SQL, achieving 94% classification accuracy across target categories
+- Engineered automated data preprocessing and feature extraction workflows that reduced end-to-end model training pipeline runtime by 40%, significantly accelerating iteration cycles
+- Designed rule-based evaluation frameworks to analyze classification variance, detect model drift, and flag inconsistencies in model outputs before deployment
+- Integrated trained ML models into REST API backend services, enabling scalable, production-ready deployment and seamless consumption by downstream application teams
+- Documented findings and evaluation results in structured reports, presenting insights to cross-functional stakeholders in clear, non-technical language
 `Python` `NLP` `Machine Learning` `Neural Networks` `REST APIs` `SQL`
  
 ---
  
-## 🚀 Featured Projects
+## Featured Projects
  
 ### [1Click — Sycamore & RAG-Based E-Learning Platform](https://github.com/Baddala-Govardhan/1Click-Sycamore-and-RAG-Pipeline)
 > *Node.js · React · Python · AWS · Terraform · RAG Pipelines · Docker*
  
-- 🔍 Built a RAG-powered chatbot that dynamically retrieves relevant content from course materials and generates precise, grounded answers — significantly reducing hallucinations compared to vanilla LLM responses
-- 📄 Engineered a document summary extractor pipeline that condenses long-form learning content into structured summaries using LLM inference over context-relevant retrieved chunks
-- 📊 Designed an interactive data dashboard surfacing learner engagement metrics and content performance KPIs in real time, enabling data-driven course improvement decisions
-- 🎯 Implemented modular quiz generation tied to retrieved content, enabling adaptive, personalized assessments grounded directly in actual course material
-- ☁️ Deployed scalable cloud-native infrastructure on AWS using Docker and Terraform with full CI/CD integration, enabling repeatable and production-ready releases
+- Built a RAG-powered chatbot that dynamically retrieves relevant content from course materials and generates precise, grounded answers — significantly reducing hallucinations compared to vanilla LLM responses
+- Engineered a document summary extractor pipeline that condenses long-form learning content into structured summaries using LLM inference over context-relevant retrieved chunks
+- Designed an interactive data dashboard surfacing learner engagement metrics and content performance KPIs in real time, enabling data-driven course improvement decisions
+- Implemented modular quiz generation tied to retrieved content, enabling adaptive, personalized assessments grounded directly in actual course material
+- Deployed scalable cloud-native infrastructure on AWS using Docker and Terraform with full CI/CD integration, enabling repeatable and production-ready releases
 ---
  
 ### [AERO — Automated Executed and Response Orchestrated](https://github.com/govardhanreddyb/aero)
 > *C++ · Python · Node.js · OpenCV · Docker · AWS*
  
-- 🎤 Engineered a natural language command interface that parses voice inputs and maps them to system-level OS operations across Windows and Linux, enabling hands-free workflow automation
-- 👁️ Integrated OpenCV-based object detection modules to visually identify and interact with on-screen UI elements — automating tasks that lack accessible APIs or scripting hooks
-- ⚙️ Designed a modular C++ execution engine with concurrent task handling, structured logging, and retry mechanisms to ensure deterministic, fault-tolerant command execution under varied system states
-- 📡 Exposed REST API endpoints via Node.js to allow external systems and integrations to trigger automation workflows programmatically without direct UI interaction
-- 🐳 Containerized all components using Docker for consistent, reproducible cross-environment deployments with full execution traceability via structured audit logs
+- Engineered a natural language command interface that parses voice inputs and maps them to system-level OS operations across Windows and Linux, enabling hands-free workflow automation
+- Integrated OpenCV-based object detection modules to visually identify and interact with on-screen UI elements — automating tasks that lack accessible APIs or scripting hooks
+- Designed a modular C++ execution engine with concurrent task handling, structured logging, and retry mechanisms to ensure deterministic, fault-tolerant command execution under varied system states
+- Exposed REST API endpoints via Node.js to allow external systems and integrations to trigger automation workflows programmatically without direct UI interaction
+- Containerized all components using Docker for consistent, reproducible cross-environment deployments with full execution traceability via structured audit logs
 ---
  
 ### [Autonomous Systems Evaluation Framework](https://github.com/Baddala-Govardhan)
 > *Python · SQL · REST APIs · AWS · Docker*
  
-- 🚗 Developed Python-based algorithms to compute safety-critical metrics including collision probability, lane deviation, trajectory smoothness, and acceleration variance from large-scale simulation logs
-- 🗃️ Built scalable SQL ETL pipelines to aggregate and transform high-volume structured and unstructured driving logs into clean, analytics-ready datasets for consistent metric computation at scale
-- 🔬 Implemented scenario-mining logic to automatically extract high-risk edge cases from large datasets - surfacing rare but safety-critical traffic events for targeted model evaluation and stress testing
-- 📊 Designed automated reporting dashboards and REST APIs exposing scenario-level evaluation results, enabling engineering and product teams to make fast, data-driven safety decisions
-- 🧪 Structured the system around repeatable, modular experimentation workflows — making it straightforward to benchmark new driving policy models against a consistent baseline across diverse traffic scenarios
+- Developed Python-based algorithms to compute safety-critical metrics including collision probability, lane deviation, trajectory smoothness, and acceleration variance from large-scale simulation logs
+- Built scalable SQL ETL pipelines to aggregate and transform high-volume structured and unstructured driving logs into clean, analytics-ready datasets for consistent metric computation at scale
+- Implemented scenario-mining logic to automatically extract high-risk edge cases from large datasets - surfacing rare but safety-critical traffic events for targeted model evaluation and stress testing
+- Designed automated reporting dashboards and REST APIs exposing scenario-level evaluation results, enabling engineering and product teams to make fast, data-driven safety decisions
+- Structured the system around repeatable, modular experimentation workflows — making it straightforward to benchmark new driving policy models against a consistent baseline across diverse traffic scenarios
 
 ---
 
-## 🎓 Education
+## Education
 
 **M.S. Data Science & Analytics** — California State University, Chico *(Aug 2024 – May 2026)*
 Courses: Analysis of Algorithms · Advanced Data Science · AI · Applied ML / Deep Learning · DevOps Programming
@@ -169,9 +169,9 @@ Courses: Algorithms · Data Structures · SQL/NoSQL · ML / Deep Learning · OOP
 
 ---
 
-## 🏅 Certifications
+## Certifications
 
-- 🟠 **AWS Certified Solutions Architect – Associate**
-- 🔵 **IBM Building AI Agents & Workflows**
-- 🟢 **Google Agile Project Management**
-- 🔵 **CISCO Python**
+- **AWS Certified Solutions Architect – Associate**
+- **IBM Building AI Agents & Workflows**
+- **Google Agile Project Management**
+- **CISCO Python**
